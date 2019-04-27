@@ -11,6 +11,8 @@ We are looking for awesome data scientists and machine learning engineers to fin
 The dataset is based on English language literature by 10 famous authors. The train and the test data consists of short samples of text, where each sample consists of a set of 10 sentences. These sentences are irrespective of the number of words which constitutes the X data and the corresponding Y data, the author.
 The training data and test data comprise of 18,977 and of 6,326 samples each. This is a dataset which has been collected over some time to gather works of the best authors from many generations.
 
+Data can be downloaded from https://www.machinehack.com/course/whose-line-is-it-anyway-identify-the-author-hackathon/
+
 # Features
 1. Sample containing 10 sentences of english language text.
 2. Author of the corresponding text/sample (10 classes).
