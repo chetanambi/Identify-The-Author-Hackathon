@@ -22,3 +22,6 @@ Based on the given piece of text in test data, build a model that predicts the n
 
 # Evaluation Metric
 Submissions are evaluated on the acccuracy between the predicted and the observed target.
+
+# Leaderboard
+3rd Rank - 0.988776478
