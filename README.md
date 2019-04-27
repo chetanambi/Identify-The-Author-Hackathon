@@ -1,4 +1,7 @@
 # Identify-The-Author-Hackathon
+
+![Identify_The_Author](https://user-images.githubusercontent.com/37707687/56850535-a5eb2880-6921-11e9-856a-28dd6a3a4f0f.JPG)
+
 When asked about the total number of books in the world, Google’s response is safe, but accurate. “The answer changes every time the computation is performed, as we accumulate more data and fine-tune the algorithm. The current number is around 210 million,” says the search engine giant. According to Google, the number of published books written in the world is 129,864,880.
 
 But even without Google’s insights, we know the importance of literature in our lives as legendary authors have enlightened us through the centuries.
